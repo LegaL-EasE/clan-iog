@@ -1,10 +1,10 @@
 .footer {
-  height: 60px;
+  height: 70px;
   color: #130000;
   background-color: rgba(0,0,0,0);
   background-image: url("/images/borders/bottom.png");
   background-repeat: repeat;
-  min-height: 100px;
+  min-height: 70px;
   display: flex;
   align-items: center;
   justify-content: center;
