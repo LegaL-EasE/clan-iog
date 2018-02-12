@@ -29,7 +29,7 @@ class Header extends Component {
           <Navbar.Header>
             <Navbar.Brand>
               <Link to="/" className="logo-container">
-                <img className="logo" src="/images/logo2.png" alt=""/>
+                <img className="logo" src="/images/logo2.png" alt="clan iog"/>
               </Link>
             </Navbar.Brand>
           </Navbar.Header>
@@ -75,7 +75,7 @@ class Header extends Component {
             </NavItem> 
 
           </Nav>
-        </Navbar>
+        </Navbar>		
       </div>
     );
   }
